@@ -26,7 +26,7 @@ EXPLORA_APP.
 <img src="assets/images/SignUp.jpg">  
 
 # Sign In Screen
-<img src="assets/images/login.png">  
+<img src="assets/images/SignIn.jpg">  
 
 # Tabs Screen
 <img src="assets/images/tabs1.jpg"> 
