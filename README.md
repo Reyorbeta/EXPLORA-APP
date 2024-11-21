@@ -2,10 +2,10 @@
 EXPLORA_APP.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* TRIP PLANNING TOOLS
+* BOOKING INTEGRATIONS
+* LOCAL ATTRACTIONS AND ACTIVITIES
+* TRAVEL GUIDES AND TIPS
 
 # Course Overview
 * Basic React Native Components
@@ -19,7 +19,7 @@ EXPLORA_APP.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/Homescreen.jpg">  
 
 # Sign Up Screen
 <img src="assets/images/screenshot/signup.png">  
