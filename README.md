@@ -29,4 +29,7 @@ EXPLORA_APP.
 <img src="assets/images/login.png">  
 
 # Tabs Screen
-<img src="assets/images/tabs.png"> 
+<img src="assets/images/tabs1.jpg"> 
+<img src="assets/images/tabs2.jpg"> 
+<img src="assets/images/tabs3.jpg"> 
+<img src="assets/images/tabs4.jpg"> 
