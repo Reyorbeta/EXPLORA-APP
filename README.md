@@ -2,10 +2,10 @@
 EXPLORA_APP.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* TRIP PLANNING TOOLS
+* BOOKING INTEGRATIONS
+* LOCAL ATTRACTIONS AND ACTIVITIES 
+* TRAVEL GUIDES AND TIPS
 
 # Course Overview
 * Basic React Native Components
