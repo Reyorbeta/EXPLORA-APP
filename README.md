@@ -19,7 +19,7 @@ EXPLORA_APP.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/Homescreen.jpg">  
+<img src="assets/images/Homescreen.jpg">
 
 # Sign Up Screen
 <img src="assets/images/screenshot/signup.png">  
