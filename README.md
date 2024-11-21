@@ -23,7 +23,7 @@ EXPLORA_APP.
 <img src="assets/images/Homescreen.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/signup.png">  
+<img src="assets/images/SignUp.jpg">  
 
 # Sign In Screen
 <img src="assets/images/login.png">  
